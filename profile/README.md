@@ -1,5 +1,1 @@
-# Hola mundo!
-
-
-
-©Juan del Valle 2022
+# Juan del Valle
